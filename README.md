@@ -1,12 +1,1 @@
-# introduction
-```
-git add .
-```
-```
-git add READ.md
-```
-```
-git restore --staged <file>
-git commit -m "introduction added"
-git push
-```
+Hello, I am coming from Per Scholas IT Program and wanted to try coding with Java for the first time. 
